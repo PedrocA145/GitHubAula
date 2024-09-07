@@ -27,6 +27,9 @@ Inicio
       escreval ("RG do Cliente cadastrado: ", rg)
       
       se idade < 18 entao
-            escreval ("Cliente nï¿½o pode ser cadastrado por ser menor de idade")
+            escreval ("Cliente não pode ser cadastrado por ser menor de idade")
+      fimse
+      se idade > 65 entao
+         escreval ("Cliente não pode ser cadastrado por ser de idade muito avancada")
       fimse
 Fimalgoritmo
