@@ -25,5 +25,8 @@ Inicio
       escreval ("Profissao do Cliente cadastrado: ", profissao)
       escreval ("CPF do Cliente cadastrado: ", cpf)
       escreval ("RG do Cliente cadastrado: ", rg)
-Fimalgoritmo
       
+      se idade < 18 entao
+            escreval ("Cliente n�o pode ser cadastrado por ser menor de idade")
+      fimse
+Fimalgoritmo
