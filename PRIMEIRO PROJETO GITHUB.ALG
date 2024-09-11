@@ -33,5 +33,5 @@ Inicio
          escreval ("Cliente n�o pode ser cadastrado por ser de idade muito avancada")
       fimse
 
-      escreva ("Deus te ama, obrigado por acessareste projeto!")
+      escreva ("Deus te ama, muito obrigado por acessareste projeto!")
 Fimalgoritmo
